@@ -18,10 +18,6 @@ public class Practice1 {
 
 
 
-
-
-		/*
-
 		for(int i=1; i<=100; i++){
 
 			if(i==12) break;
@@ -29,13 +25,6 @@ public class Practice1 {
 			System.out.println(i);
 
 		}
-
-		 */
-
-
-
-
-
 		int sum = 0;
 
 		for(int i=1; i<=100; i++){
